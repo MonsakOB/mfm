@@ -1,4 +1,6 @@
 <?php
+$strAccessToken = "ZpH0ADGozQjamp48+PqkPEbl5AX6MaCsm4vwe1F8ut4qQEo0rAcomiCqIMpIvcRpMRYroHjqfoXdaki9gQ2Vf4ddeEWTlNtywhdeYgTmzHS3qwjgHKnZ+BB6bM4S47ME42qM09DW1V9BNz7X7yXQqwdB04t89/1O/w1cDnyilFU=
+";
 require_once '../vendor/autoload.php';
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
